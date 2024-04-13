@@ -1,0 +1,3 @@
+../Core/Src/RPM_Encoder.c:9:8:get_rpm	15
+../Core/Src/RPM_Encoder.c:56:6:CountLoop	4
+../Core/Src/RPM_Encoder.c:69:6:ResetLoop	2

@@ -1,0 +1,6 @@
+../Core/Src/motor.c:36:6:Robot_Move	112	static
+../Core/Src/motor.c:119:8:rpm_to_duty	24	static
+../Core/Src/motor.c:123:6:set_duty_cycle	24	static
+../Core/Src/motor.c:158:6:Run_Now	48	static
+../Core/Src/motor.c:164:6:Rotation	16	static
+../Core/Src/motor.c:205:8:v2rpm	16	static

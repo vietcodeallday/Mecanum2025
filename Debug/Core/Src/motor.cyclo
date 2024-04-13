@@ -1,0 +1,6 @@
+../Core/Src/motor.c:36:6:Robot_Move	13
+../Core/Src/motor.c:119:8:rpm_to_duty	1
+../Core/Src/motor.c:123:6:set_duty_cycle	13
+../Core/Src/motor.c:158:6:Run_Now	1
+../Core/Src/motor.c:164:6:Rotation	9
+../Core/Src/motor.c:205:8:v2rpm	1
